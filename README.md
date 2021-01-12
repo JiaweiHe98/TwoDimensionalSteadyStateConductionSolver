@@ -18,3 +18,4 @@ The definition of a steady state is defined as a condition in a physical process
 The analytical solution usually involves complicated mathematical series, for example, the Fourier series. Also, even we could get the analytical solution; the solutions were usually restricted to a few sets of simple conditions. However, solutions are a set of temperatures, and the temperature of each point is continuous and determined by independent variables; its location (x, y). Different from the analytical methods, numerical methods will only give us an approximation of each point. Ignore the effect of error accumulation; the more points are set, the more accurate the result will be.
 
 ### Energy Balance Method
+The energy balance method is simply an application of the law of energy conservation. The energy goes in minus the energy goes out then plus the energy generated within the control volume must equal to the energy storage inside that control volume. 
