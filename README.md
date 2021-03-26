@@ -3,6 +3,28 @@
 ## Project Description
 This project is aimed at solving the steady-state heat conduction problem in a two-dimensional domain through a numerical method.
 
+## Project Overview
+
+## Prepare for Developing
+This section will guide you through the software and tools required for building this project.
+
+### Software List
+* Visual Studio Code
+* Matlab
+* vscode-icons
+
+### Visual Studio Code
+Visual Studio Code, also known as VSCode, is a popular and powerful text editor for developers. A good text editor is crucial for speeding up the coding process and debugging process.
+
+#### Install Visual Studio Code
+We recommend to use the official website for downloading the packages.
+Please go to [https://code.visualstudio.com/](https://code.visualstudio.com/) and follow the instruction on the web page.
+
+#### Recommended Extensions
+We recommend you to install the listed extensions for boosting your coding experience with VSCode
+* Matlab
+* vscode-icons
+
 ## Physical Background
 
 ### What is Heat Conduction?
