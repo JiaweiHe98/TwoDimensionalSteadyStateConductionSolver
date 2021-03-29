@@ -1,7 +1,7 @@
 # TwoDimensionalSteadyStateConductionSolver
 
 ## Project Description
-This project is aimed at solving the steady-state heat conduction problem in a two-dimensional domain through a numerical method.
+This project is aimed at solving a steady-state heat conduction problem in a two-dimensional domain through a numerical method.
 
 ## Project Overview
 
