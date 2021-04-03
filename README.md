@@ -40,6 +40,12 @@ We recommend you to install the listed extensions for boosting your coding exper
 * Matlab
 * vscode-icons
 
+### MATLAB
+MATLAB is also known as Matrix Laboratory, which is a programming and numeric computing tool for solving not only mathematical problems but also engineering problems.
+
+#### Install MATLAB
+Please go to [mathworks.com](https://www.mathworks.com/products/matlab.html), the official website for MATLAB, and download the software. MATLAB provides academic version for college student; you may need to use your .edu email to set up an account.
+
 ## Physical Background
 
 ### What is Heat Conduction?
